@@ -1,0 +1,8 @@
+# All robots allowed
+User-agent: *
+Disallow:
+
+# Sitemap files
+Sitemap: https://wallpapersheaven.000webhostapp.com/sitemap.xml
+Sitemap: https://wallpapersheaven.000webhostapp.com/image-sitemap.xml
+Sitemap: https://wallpapersheaven.000webhostapp.com/video-sitemap.xml

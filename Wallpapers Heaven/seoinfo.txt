@@ -1,0 +1,31 @@
+Short Looping Videos: https://www.videvo.net/stock-video-footage/space/freeclips/yes/?page=1
+Make <p> element blank but keep its height: https://stackoverflow.com/questions/14848326/empty-paragraph-tags-should-i-allow-in-html-editor-or-not
+Change HTTP to HTTPS: https://www.000webhost.com/forum/t/ssl-redirect-from-http-to-https/122953?fbclid=IwAR0WvRmZV-Bgojl0J_kzBLVwA1OJP4QaWyFapAhyEU586dttXw7HC0epYhs
+HTML Breadcrumbs: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_breadcrumbs
+Horizontally center a <div> element: https://stackoverflow.com/questions/114543/how-to-horizontally-center-a-div
+Make <div> always fullscreen: https://stackoverflow.com/questions/1719452/how-to-make-a-div-always-full-screen
+Make <div> always stay on top of everything: https://stackoverflow.com/questions/3948445/how-to-make-div-on-top-of-all-other-control
+Create <div> and set its style via JS: https://stackoverflow.com/questions/6840326/how-can-i-create-and-style-a-div-using-javascript/6840399
+Call JS function in href=: https://stackoverflow.com/questions/5003867/how-to-call-javascript-function-instead-of-href-in-html
+Remove .html from URLs: https://stackoverflow.com/questions/5730092/how-to-remove-html-from-url?fbclid=IwAR0c3AyMikrPulig5DshH6cISR8cK-oBJQ4lGlFpzXX02In9aUSLU5VQrlY
+Remove bullets from <li>: https://stackoverflow.com/questions/36350948/removing-black-dots-from-li-and-ul/36351089
+Bootstrap collapsible <div>: https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_collapsible&stacked=h
+Center HTML <button>: https://stackoverflow.com/questions/11799159/trying-to-align-html-button-at-the-center-of-the-my-page
+Imgur Privacy Policy page: https://imgur.com/privacy
+XML & HTML Site Map generator online: https://www.xml-sitemaps.com
+XML Image Map generator online: https://image-sitemap.net
+HTML Image Map generator online: https://www.image-map.net
+Responsive HTML Image Map: https://github.com/davidjbradshaw/image-map-resizer
+XML Video Map: https://support.google.com/webmasters/answer/80471?hl=en
+Compress PNG images: https://tinypng.com
+Compress MP4 videos: https://www.ps2pdf.com/compress-mp4
+Center <span> contents: https://stackoverflow.com/questions/8392211/html-span-align-center-not-working
+OG Tags: https://www.optimizesmart.com/how-to-use-open-graph-protocol/
+Microdata Tags: http://schema.org/docs/schemas.html
+Social Media Buttons: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons2
+robots.txt file: https://technicalseo.com/tools/docs/robots-txt/
+
+Generate SEO Reports:
+https://seositecheckup.com
+https://www.apwebsolutions.com.au/free-seo-report/
+https://tools.pingdom.com

@@ -1,0 +1,100 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+   <url>
+     <loc>https://wallpapersheaven.000webhostapp.com/index</loc>
+     <video:video>
+       <video:thumbnail_loc>https://wallpapersheaven.000webhostapp.com/thumbs/highway-loop.png</video:thumbnail_loc>
+       <video:title>Highway Loop</video:title>
+       <video:description>Highway Loop Video - Index / Home Page</video:description>
+       <video:content_loc>https://wallpapersheaven.000webhostapp.com/vids/highway-loop.mp4</video:content_loc>
+       <video:duration>12</video:duration>
+       <video:publication_date>2020-01-12</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly>
+       <video:requires_subscription>no</video:requires_subscription>
+       <video:live>no</video:live>
+     </video:video>
+   </url>
+   <url>
+     <loc>https://wallpapersheaven.000webhostapp.com/cars-category</loc>
+     <video:video>
+       <video:thumbnail_loc>https://wallpapersheaven.000webhostapp.com/thumbs/tachometer-loop.png</video:thumbnail_loc>
+       <video:title>Tachometer Loop</video:title>
+       <video:description>Tachometer Loop Video - Cars Category Page</video:description>
+       <video:content_loc>https://wallpapersheaven.000webhostapp.com/vids/tachometer-loop.mp4</video:content_loc>
+       <video:duration>4</video:duration>
+       <video:publication_date>2020-01-12</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly>
+       <video:requires_subscription>no</video:requires_subscription>
+       <video:live>no</video:live>
+     </video:video>
+   </url>
+   <url>
+     <loc>https://wallpapersheaven.000webhostapp.com/planets-category</loc>
+     <video:video>
+       <video:thumbnail_loc>https://wallpapersheaven.000webhostapp.com/thumbs/sun-loop.png</video:thumbnail_loc>
+       <video:title>Sun Loop</video:title>
+       <video:description>Sun Loop Video - Planets Category Page</video:description>
+       <video:content_loc>https://wallpapersheaven.000webhostapp.com/vids/sun-loop.mp4</video:content_loc>
+       <video:duration>15</video:duration>
+       <video:publication_date>2020-01-12</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly>
+       <video:requires_subscription>no</video:requires_subscription>
+       <video:live>no</video:live>
+     </video:video>
+   </url>
+   <url>
+     <loc>https://wallpapersheaven.000webhostapp.com/sports-category</loc>
+     <video:video>
+       <video:thumbnail_loc>https://wallpapersheaven.000webhostapp.com/thumbs/sports-loop.png</video:thumbnail_loc>
+       <video:title>Sports Loop</video:title>
+       <video:description>Sports Loop Video - Sports Category Page</video:description>
+       <video:content_loc>https://wallpapersheaven.000webhostapp.com/vids/sports-loop.mp4</video:content_loc>
+       <video:duration>13</video:duration>
+       <video:publication_date>2020-01-12</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly>
+       <video:requires_subscription>no</video:requires_subscription>
+       <video:live>no</video:live>
+     </video:video>
+   </url>
+   <url>
+     <loc>https://wallpapersheaven.000webhostapp.com/space-category</loc>
+     <video:video>
+       <video:thumbnail_loc>https://wallpapersheaven.000webhostapp.com/thumbs/space-loop.png</video:thumbnail_loc>
+       <video:title>Space Loop</video:title>
+       <video:description>Space Loop Video - Space Category Page</video:description>
+       <video:content_loc>https://wallpapersheaven.000webhostapp.com/vids/space-loop.mp4</video:content_loc>
+       <video:duration>5</video:duration>
+       <video:publication_date>2020-01-12</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly>
+       <video:requires_subscription>no</video:requires_subscription>
+       <video:live>no</video:live>
+     </video:video>
+   </url>
+   <url>
+     <loc>https://wallpapersheaven.000webhostapp.com/nature-category</loc>
+     <video:video>
+       <video:thumbnail_loc>https://wallpapersheaven.000webhostapp.com/thumbs/nature-loop.png</video:thumbnail_loc>
+       <video:title>Nature Loop</video:title>
+       <video:description>Nature Loop Video - Nature Category Page</video:description>
+       <video:content_loc>https://wallpapersheaven.000webhostapp.com/vids/nature-loop.mp4</video:content_loc>
+       <video:duration>8</video:duration>
+       <video:publication_date>2020-01-12</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly>
+       <video:requires_subscription>no</video:requires_subscription>
+       <video:live>no</video:live>
+     </video:video>
+   </url>
+   <url>
+     <loc>https://wallpapersheaven.000webhostapp.com/water-category</loc>
+     <video:video>
+       <video:thumbnail_loc>https://wallpapersheaven.000webhostapp.com/thumbs/water-loop.png</video:thumbnail_loc>
+       <video:title>Water Loop</video:title>
+       <video:description>Water Loop Video - Water Category Page</video:description>
+       <video:content_loc>https://wallpapersheaven.000webhostapp.com/vids/water-loop.mp4</video:content_loc>
+       <video:duration>20</video:duration>
+       <video:publication_date>2020-01-12</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly>
+       <video:requires_subscription>no</video:requires_subscription>
+       <video:live>no</video:live>
+     </video:video>
+   </url>
+</urlset>
